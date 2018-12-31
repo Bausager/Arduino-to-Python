@@ -1,4 +1,4 @@
-#dette er first
+import smufy as sy
 
 import serial #Importere seriel kommonikation
 import numpy as np #Importere matematisk bibliotek
