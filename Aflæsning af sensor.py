@@ -1,4 +1,4 @@
-#Skal lige teste det
+#dette er first
 
 import serial #Importere seriel kommonikation
 import numpy as np #Importere matematisk bibliotek
