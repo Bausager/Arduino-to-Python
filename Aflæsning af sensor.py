@@ -1,3 +1,5 @@
+#Skal lige teste det
+
 import serial #Importere seriel kommonikation
 import numpy as np #Importere matematisk bibliotek
 import matplotlib.pyplot as plt #importere as plot bibliiotek
